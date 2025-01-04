@@ -1,5 +1,5 @@
-| [Logística](#logistica) | [Calendário](#calendario) | [Sobre esse GIT](#material)  | [Slides](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing)
-|-------------------------|---------------------------|------------------------------|------------------------------------------------------------------------------------------------|
+| [Slides](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing)  | [Logística](#logistica) | [Calendário](#calendario) | [Sobre esse GIT](#material)  | 
+|-------------------------------------------------------------------------------------------------|-------------------------|---------------------------|------------------------------|
 
 # CIAG 2024.1 Rio de Janeiro 
 
