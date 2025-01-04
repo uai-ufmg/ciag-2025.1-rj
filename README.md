@@ -17,6 +17,10 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 14-16h | Aula de Exercícios |
 | 16-18h | Aula de Código     |
 
+<a name="calendario"/>
+
+## Calendário
+
 <a name="material"/>
 
 ## Sobre esse GIT
