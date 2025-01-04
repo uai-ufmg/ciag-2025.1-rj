@@ -1,5 +1,5 @@
-| [Logística](#logistica) | [Calendário](#calendario) | [Material](#material)  | [Executando Notebooks](#collab) |
-|-------------------------|---------------------------|------------------------|---------------------------------|
+| [Logística](#logistica) | [Calendário](#calendario) | [Material](#material)  |
+|-------------------------|---------------------------|------------------------|
 
 # CIAG 2024.1 Rio de Janeiro 
 
@@ -23,3 +23,8 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 1. [Slides](https://drive.google.com/drive/u/0/folders/1tfneKIj1G71ERRnYd9PEK0pHtLBoQnis)
 1. [Prática](https://github.com/uai-ufmg/ciag-2024.1-rj)
+
+Este repositório é dividido em várias pastas. Para cada semana do curso, existe tanto os exercícios
+teóricos quanto tarefas práticas. Todo o material é disponibilizado em notebooks Jupyter. Além do
+mais, os notebook práticos tem versões que executam no [Colab](https://colab.research.google.com/)
+quanto versões que executam em ambiente interno da Petrobras (Tatu).
