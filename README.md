@@ -7,7 +7,7 @@
 
 Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning).
 
-***Os slides encontram-se no [link](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing) acima***
+**Os slides encontram-se neste [link](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing) (também indicado acima na tabela de tópicos)**
 
 <a name="logistica"/>
 
