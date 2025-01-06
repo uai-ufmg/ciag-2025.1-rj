@@ -1,5 +1,5 @@
-| [Slides](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing)  | [Logística](#logistica) | [Calendário](#calendario) | [Sobre esse GIT](#material)  | 
-|-------------------------------------------------------------------------------------------------|-------------------------|---------------------------|------------------------------|
+| [🛝🛝 Slides](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing)  | [⏰ Logística](#logistica) | [📅 Calendário](#calendario) | [❓ Sobre esse GIT](#material)  | 
+|-----------------------------------------------------------------------------------------------------|----------------------------|------------------------------|---------------------------------|
 
 # CIAG 2025.1 Rio de Janeiro 
 
@@ -11,7 +11,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 <a name="logistica"/>
 
-## Logística de Aulas
+## ⏰ Logística de Aulas 
 
 |  Hora        |  Atividade         |
 |--------------|--------------------|
@@ -21,12 +21,12 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 10:30-11:45h | Aula Expositiva    |
 | 11:45-13:15h | Almoço             |
 | 13:15-14:15h | Aula de Exercícios |
-| 14:15-15:00h | Break              |
+| 14:15-15:30h | Break              |
 | 14:30-17:00h | Aula de Código     |
 
 <a name="calendario"/>
 
-## Calendário
+## 📅 Calendário
 
 | Data       | Dia       | Tema                                                     |
 |------------|-----------|---------------------------------------------------------|
@@ -87,7 +87,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 <a name="material"/>
 
-## Sobre esse GIT
+## ❓ Sobre esse GIT
 
 Este repositório é dividido em várias pastas. Para cada semana do curso, existe tanto os exercícios
 teóricos quanto tarefas práticas. Todo o material é disponibilizado em notebooks Jupyter. Além do
