@@ -15,9 +15,12 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 |  Hora  |  Atividade         |
 |--------|--------------------|
-| 8-12h  | Aula Expositiva    |
-| 14-16h | Aula de Exercícios |
-| 13-17h | Aula de Código     |
+| 8-9h   | Dúvidas            |
+| 9-10:15h  | Aula Expositiva    |
+| 10:15h-10:30h  | Break    |
+| 10:30-11:45h  | Aula Expositiva    |
+| 13:15-14:30h | Aula de Exercícios |
+| 14:30-17h | Aula de Código     |
 
 <a name="calendario"/>
 
