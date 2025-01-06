@@ -93,6 +93,3 @@ Este repositório é dividido em várias pastas. Para cada semana do curso, exis
 teóricos quanto tarefas práticas. Todo o material é disponibilizado em notebooks Jupyter. Além do
 mais, os notebook práticos tem versões que executam no [Colab](https://colab.research.google.com/)
 quanto versões que executam em ambiente interno da Petrobras (Tatu).
-# ciag-template
-Listas Práticas e Teóricas do CIAG
->>>>>>> template/main
