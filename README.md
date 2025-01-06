@@ -13,14 +13,16 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## Logística de Aulas
 
-|  Hora  |  Atividade         |
-|--------|--------------------|
-| 8-9h   | Dúvidas            |
-| 9-10:15h  | Aula Expositiva    |
-| 10:15h-10:30h  | Break    |
-| 10:30-11:45h  | Aula Expositiva    |
-| 13:15-14:30h | Aula de Exercícios |
-| 14:30-17h | Aula de Código     |
+|  Hora        |  Atividade         |
+|--------------|--------------------|
+| 8:00-9:00h   | Dúvidas            |
+| 9:00-10:15edit/main/README.mdh  | Aula Expositiva    |
+| 10:15-10:30h | Break              |
+| 10:30-11:45h | Aula Expositiva    |
+| 11:45-13:15h | Almoço             |
+| 13:15-14:15h | Aula de Exercícios |
+| 14:15-15:00h | Break              |
+| 14:30-17:00h | Aula de Código     |
 
 <a name="calendario"/>
 
