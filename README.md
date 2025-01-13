@@ -1,5 +1,5 @@
-| [🛝🛝 Slides](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing)  | [⏰ Logística](#logistica) | [📅 Calendário](#calendario) | [🧠 Projeto] (#projeto) | [❓ Sobre esse GIT](#material)  | 
-|------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------|-------------------------|---------------------------------|
+| [🛝🛝 Slides](https://drive.google.com/drive/folders/1EK9_YrhJYX2UvyvZV4pXmVpHRz9pn61s?usp=sharing)  | [⏰ Logística](#logistica) | [📅 Calendário](#calendario) | [🧠 Projeto](#projeto) | [❓ Sobre esse GIT](#material)  | 
+|------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------|------------------------|---------------------------------|
 
 # CIAG 2025.1 Rio de Janeiro 
 
@@ -85,6 +85,9 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 27/02/2025 | Quinta    | Diffusion                                               |
 | 28/02/2025 | Sexta     | Treinamento Distribuído                                 |
 
+
+
+![](https://raw.githubusercontent.com/uai-ufmg/ciag-2025.1-rj/refs/heads/main/CIAG%202025.svg)
 
 <a name="Projeto"/>
 
