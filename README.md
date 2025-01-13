@@ -96,10 +96,10 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 Um ponto importante do nosso curso é a realização de um projeto final. Começando na Semana 07 (ou
 seja, 24/02/2025) não teremos mais atividades de exercícios e código no horário da tarde. Antes
-disso, já vamos começar a debater os temas. Data a natureza remota do curso, peço para que procurem
+disso, já vamos começar a debater os temas. Dada a natureza remota do curso, peço para que procurem
 os professores de BH remotamente (WhatsApp, E-Mail ou Teams).
 
-- 03/02/2025 ate 24/02/2025 - Definição de Temas (Possibilidade de Agendar Reuniões Remotas com Profs em BH).
+- 03/02/2025 até 24/02/2025 - Definição de Temas (Possibilidade de Reuniões Remotas com Profs em BH).
 - 24/02/2024 até 28/02/2025 - Fechar a Organização das Bases
 - 03/03/2025 - Pitches Projetos (Remoto)
 - 04/03/2025 - Pitches Projetos (Remoto)
