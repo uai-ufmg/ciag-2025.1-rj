@@ -13,6 +13,8 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## ⏰ Logística de Aulas 
 
+- Local: Sala 1518 Edifício General Horta Barbosa (EDIHB)
+
 |  Hora        |  Atividade         |
 |--------------|--------------------|
 | 8:00-9:00h   | Dúvidas            |
@@ -27,6 +29,9 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 <a name="calendario"/>
 
 ## 📅 Calendário
+
+
+![](https://raw.githubusercontent.com/uai-ufmg/ciag-2025.1-rj/refs/heads/main/CIAG%202025.svg)
 
 | Data       | Dia       | Tema                                                     |
 |------------|-----------|---------------------------------------------------------|
@@ -84,10 +89,6 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 26/02/2025 | Quarta    | RL e Deep RL                                            |
 | 27/02/2025 | Quinta    | Diffusion                                               |
 | 28/02/2025 | Sexta     | Treinamento Distribuído                                 |
-
-
-
-![](https://raw.githubusercontent.com/uai-ufmg/ciag-2025.1-rj/refs/heads/main/CIAG%202025.svg)
 
 <a name="Projeto"/>
 
