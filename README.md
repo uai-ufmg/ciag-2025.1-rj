@@ -84,11 +84,11 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 21/02/2025 | Sexta     | Revisão                                                 |
 | 22/02/2025 | Sábado    |                                                         |
 | 23/02/2025 | Domingo   |                                                         |
-| 24/02/2025 | Segunda   | LLMs 1                                                  |
-| 25/02/2025 | Terça     | LLMs 1                                                  |
-| 26/02/2025 | Quarta    | RL e Deep RL                                            |
-| 27/02/2025 | Quinta    | Diffusion                                               |
-| 28/02/2025 | Sexta     | Treinamento Distribuído                                 |
+| 24/02/2025 | Segunda   | Diffusion                                               |
+| 25/02/2025 | Terça     | RL                                                      |
+| 26/02/2025 | Quarta    | Deep RL                                                 |
+| 27/02/2025 | Quinta    | LLMs 1                                                  |
+| 28/02/2025 | Sexta     | Multimodal                                              |
 
 <a name="Projeto"/>
 
